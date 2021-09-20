@@ -1,2 +1,2 @@
-# comp_code
-signateやkaggleなどのコンペで使用したコードを載せています
+# Kaggle_SIGNATE
+KaggleやSIGNATEなどのコンペで使用したコードを載せています
